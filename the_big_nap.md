@@ -1,0 +1,4 @@
+# The Big Nap
+Eric has referred to [The Big Nap](https://theportal.wiki/wiki/The_Big_Nap) as the era characterized by magical thinking and extraordinary luck between the end of World War II and 2020 the emergence of COVID-19.
+
+The Big Nap—at least in the developed free world—was essentially characterized as a run of extraordinary relative good luck and serenity (at least by the historical standards set by previous world wars, pandemics, depressions, and depressions), where the new gathering storm clouds of the Cold War threatened and menaced in the distance, but the skies directly above remained unprecedentedly clear. This created a bizarre developmental environment where the serenity of the Big Nap led to a worldwide epidemic of magical thinking among the expert and leadership classes that were raised during this time. [The Big Nap](https://theportal.wiki/wiki/The_Big_Nap)

@@ -1,15 +1,12 @@
-# Church and Pike Commissions
-Were two parallel committees run in the US House and Senate investigating illegal activities by the U.S. Central Intelligence Agency (CIA), the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) in the 1970's.
- 
- 
-## References and Links:
+# Critical Feeling
 
-### Church Committee:
+"You're over-feeling this."
 
-* [Wikipedia Church Committee](https://en.wikipedia.org/wiki/Church_Committee)
-* [Brookings institute on the Church Committee](https://www.brookings.edu/blog/brookings-now/2015/05/06/40-years-ago-church-committee-investigated-americans-spying-on-americans/)
+Similar to critical thinking, but with emotional content. "Most of our emotions are susceptible to becoming maladaptive and because the content is not analytic thoughts they are harder to access and harder to influence." According to Jocko's philosophy, the Dichotomy of Leadership, we must remain aware of emotional balance and when to engage.
 
-### Pike Committee:
+https://youtu.be/Lmv_5I4WcNk
 
-* [Wikipedia on the Pike Committee](https://en.wikipedia.org/wiki/Pike_Committee)
-* [The CIA themselves on the Pike Committee](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/winter98_99/art07.html)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you&#39;re raising kids as I am, you need to teach &quot;critical feeling&quot; to defeat groupfeel no less than critical thinking to fight groupthink.</p>&mdash; Eric Weinstein (@EricRWeinstein) <a href="https://twitter.com/EricRWeinstein/status/844198341189627904?ref_src=twsrc%5Etfw">March 21, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Considering a riff on artificial emotional intelligence, machine feeling, R Conjugation, empathy superhighway, critical feeling &amp; groupfeel.</p>&mdash; Eric Weinstein (@EricRWeinstein) <a href="https://twitter.com/EricRWeinstein/status/844208712763887616?ref_src=twsrc%5Etfw">March 21, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -1,15 +1,3 @@
-# Church and Pike Commissions
-Were two parallel committees run in the US House and Senate investigating illegal activities by the U.S. Central Intelligence Agency (CIA), the Federal Bureau of Investigation (FBI), and the National Security Agency (NSA) in the 1970's.
- 
- 
-## References and Links:
+Knark is Swedish for very hard recreational drugs, but it's also "crank" spelled backwards with a slightly different spelling.
 
-### Church Committee:
-
-* [Wikipedia Church Committee](https://en.wikipedia.org/wiki/Church_Committee)
-* [Brookings institute on the Church Committee](https://www.brookings.edu/blog/brookings-now/2015/05/06/40-years-ago-church-committee-investigated-americans-spying-on-americans/)
-
-### Pike Committee:
-
-* [Wikipedia on the Pike Committee](https://en.wikipedia.org/wiki/Pike_Committee)
-* [The CIA themselves on the Pike Committee](https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/winter98_99/art07.html)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some folks believe in angels. They have magic in their lives.<br><br>But if you fancy you‘re too scientific/rational for that “woo woo stuff”, you‘re still stuck with “Exotic Spheres.” Well...What are they doing there?<br><br>Moral: don’t screw yourself out of magic.<a href="https://t.co/cjvj8i5wH2">https://t.co/cjvj8i5wH2</a></p>&mdash; Eric Weinstein (@EricRWeinstein) <a href="https://twitter.com/EricRWeinstein/status/1169339966477852673?ref_src=twsrc%5Etfw">September 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

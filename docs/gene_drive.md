@@ -1,1 +1,1 @@
-
+A genetic engineering technology that propagates a particular suite of genes throughout a population by altering that a specific allele will be transmitted to offspring from the natural 50% probability.

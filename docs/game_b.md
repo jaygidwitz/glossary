@@ -1,1 +1,1 @@
-
+Humankind has lived in Game A since we have escaped the Dunbar limit. Humankind has never seen or fully imagined Game B. People like Daniel Schmachtenberger, Jamie Wheal, and Jordan Hall speak about this process of dialogue and its risks on [Rebel Wisdom](https://www.youtube.com/channel/UCFQ6Gptuq-sLflbJ4YY3Umw). A fundamental shift from adversarial processing to opponent processing.

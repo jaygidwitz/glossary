@@ -1,1 +1,3 @@
+# Don't wait for the bread to rise
 
+"We Jews have a tradition that I wish everybody had, which is that we read one stupid story every God damn year, just to drill it into your head to make sure it's always fresh. And this is: when it's time to leave, when it's time to change, don't wait for the bread to rise. This is what I say to every Jewish person, like, you're sitting around waiting for the bread to rise, because they all know the story, which is you eat the goddamn matzah because the people who waited for the bread to rise are no longer with us; their descendants are no longer with us. And it is time to revolt. ~ Eric on [JRE #1453 @ 36 min](https://youtu.be/wf0_nMaQ6tA?t=2210)

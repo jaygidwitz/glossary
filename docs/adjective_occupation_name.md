@@ -1,0 +1,4 @@
+# Adjective, Occupation, Name
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ The &quot;Adj.-Profession-Name&quot; Formula, Disagreeables, &amp; the &quot;No-Living-Heroes&quot; thy. Consider adjectives: <br><br>Embattled<br>Controversial<br>Divisive<br>Reclusive<br>Provocative<br>Struggling<br>Right-Wing<br>Eccentric<br>Self-styled<br>Far-Left<br>Recovering<br>Disgraced<br>Self-Promoting<br>Free-thinking<br>Volatile<br>etc.</p>&mdash; Eric Weinstein (@EricRWeinstein) <a href="https://twitter.com/EricRWeinstein/status/955117591378329606?ref_src=twsrc%5Etfw">January 21, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

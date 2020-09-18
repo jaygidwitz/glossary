@@ -1,3 +1,4 @@
 # Anti-Fragility
 
 
+<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">His “IYI” is a critique of almost our entire expert class. His “Skin In The Game” gambit, a critique of our entire system of sense-making. There’s a reason you are discovering yourselves using words like “anti-fragile” &amp; “black swan”. These are but fragments of a giant critique.</p>&mdash; Eric Weinstein (@EricRWeinstein) <a href="https://twitter.com/EricRWeinstein/status/1239275167861207041?ref_src=twsrc%5Etfw">March 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

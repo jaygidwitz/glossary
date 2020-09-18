@@ -7,7 +7,7 @@ A/B testing (also known as bucket testing or split-run testing) is a user experi
     
 ### Reference:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XbKXeVOUQYY?controls=0&amp;start=1410" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container" ><iframe width="560" height="315" src="https://www.youtube.com/embed/XbKXeVOUQYY?controls=0&amp;start=1410" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 Discussed in the context of adding “differential diagnosis” to our educators’ toolkit so that teaching disabled educators can learn how to add to better instruct students rather than externalizations the blame for their inadequate methods onto into the students.

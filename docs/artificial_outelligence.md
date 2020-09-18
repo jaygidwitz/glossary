@@ -15,10 +15,13 @@ It’s one thing to think & talk about the risks of unintelligent agents using *
 
 ###### AI Can Now Self-Reproduce—Should Humans Be Worried?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wu8s0tp9yzY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div class="video-container" >
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/Wu8s0tp9yzY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ###### Lampsilis mussels mimicking minnows
 
+<div class="video-container" >
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0j9dxbB4Z1o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

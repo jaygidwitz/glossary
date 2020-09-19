@@ -14,6 +14,7 @@
 **~ [Eric Weinstein - April 13, 2019](https://twitter.com/EricRWeinstein/status/1117088075849449472?s=20)**
 
 > Ultimately our home is in the stars or not at all. There is simply now too much power to wield for those with no real dreams beyond wielding power.
+**~ [Eric Weinstein - April 13, 2019](https://twitter.com/EricRWeinstein/status/1117088075849449472?s=20)**
 
 
 > In 1945 we ended WWII with atomic devices. This was the end of conventional massive armed conflict.

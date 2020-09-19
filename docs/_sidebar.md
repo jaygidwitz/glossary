@@ -37,6 +37,7 @@
   - [Forced Citation](forced_citation.md)
   - [Fragility of Masculinity](fragility_of_masculinity.md)
   - [Game B](game_b.md)
+  - [The Gin](the_gated_institutional_narrative_GIN.md)
   - [Gating Function](gating_function.md)
   - [Gene Drive](gene_drive.md)
   - [Genius vs Excellence](genius_vs_excellence.md)

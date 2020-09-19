@@ -3,4 +3,4 @@ Agentic leadership derives from the term agency. This leadership style is genera
    
     
 * [Go References to "agentic" in this wiki](https://theportal.wiki/wiki?search=agentic&title=Special%3ASearch&go=)
-* [Leadership on Wikipedia](https://en.wikipedia.org/wiki/Agentic_leadership Agentic)
+* [Wikipedia](https://en.wikipedia.org/wiki/Agentic_leadership)

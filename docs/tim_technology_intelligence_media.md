@@ -1,6 +1,6 @@
-* TIM - Technology Intelligence Media
+# TIM - Technology Intelligence Media
 
-Eisenhower said: “beware of the military-industrial complex” in his final farewell address. Eric believes that this needs to be updated to be aware of what he calls ''TIM: technology, Intelligence, and Media''. 
+Eisenhower said: “beware of the military-industrial complex” in his final farewell address. Eric believes that this needs to be updated to be aware of what he calls **TIM: technology, Intelligence, and Media**. 
 
 All of our personal information is housed on the servers of a few large tech companies.
 The intelligence community has not been vigorously investigated for a very long time.

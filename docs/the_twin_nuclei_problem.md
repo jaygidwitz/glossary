@@ -1,9 +1,11 @@
 # The Twin Nuclei Problem
 
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pxKvFettlWg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Twin Nuclei Problem: once a species unlocks the twin nuclei of Cell &amp; Atom, it starts an era where it has no long term future, confined to the local habitable rocks of our solar system (apologies <a href="https://twitter.com/elonmusk?ref_src=twsrc%5Etfw">@elonmusk</a>).<br><br>Wisdom cannot be the answer. The true source code is the only hope. <a href="https://t.co/flwvRclwpn">https://t.co/flwvRclwpn</a></p>&mdash; Eric Weinstein (@EricRWeinstein) <a href="https://twitter.com/EricRWeinstein/status/1117085693883273218?ref_src=twsrc%5Etfw">April 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pxKvFettlWg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 > The Twin Nuclei Era began in the space of four months in 1952-3 with the first test of the Teller-Ulam fusion device in early November of 1952 followed by the discovery of 3D structure of DNA in late February of 1953.
 **~ [Eric Weinstein - April 13, 2019](https://twitter.com/EricRWeinstein/status/1117088074364665856?s=20)** 

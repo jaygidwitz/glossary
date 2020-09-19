@@ -20,9 +20,9 @@
 > 
 > And that's where the gating function comes in. What was originally I function intended to ensure quality control of the narrative became an instrument for something else.
 > 
-> And this is where I want to introduce the most important concept that I think we will be dealing with on a going-forward basis. In 2020 on this program, the disc, what is the [[Distributed Idea Suppression Complex|DISC]]?
+> And this is where I want to introduce the most important concept that I think we will be dealing with on a going-forward basis. In 2020 on this program, the disc, what is the [Distributed Idea Suppression Complex [DISC]](https://theportal.wiki/wiki/Distributed_Idea_Suppression_Complex)?
 > 
-~ [Episode 18: Slipping the DISC](https://theportal.wiki/wiki/18:_Slipping_the_DISC:_State_of_The_Portal/Chapter_2020) |  [YouTube Video](https://www.youtube.com/watch?v=QxnkGymKuuI)
+> ~ [Episode 18: Slipping the DISC](https://theportal.wiki/wiki/18:_Slipping_the_DISC:_State_of_The_Portal/Chapter_2020) |  [YouTube Video](https://www.youtube.com/watch?v=QxnkGymKuuI)
 
 ~ (theportal.wiki)[https://theportal.wiki/wiki/Gated_Institutional_Narrative]
 

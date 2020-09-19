@@ -1,4 +1,4 @@
-#Fear, Uncertainty, and Doubt (FUD)
+# Fear, Uncertainty, and Doubt (FUD)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We don’t empower living heroes with the ability to challenge institutions.<br><br>We allow for individuals tied to institutions. We allow collective heroism (e.g. crews of astronauts are neither individual nor unaffiliated). But Lindbergh taught them the danger.<br><br>And so we now destroy. <a href="https://t.co/9v7xyaN0Am">https://t.co/9v7xyaN0Am</a></p>&mdash; Eric Weinstein (@EricRWeinstein) <a href="https://twitter.com/EricRWeinstein/status/1304173006386733056?ref_src=twsrc%5Etfw">September 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -15,7 +15,7 @@ Reputation Warfare
 
 [The GIN]
 
-[TIM]
+[tim_technology_intelligence_media]
 
 https://youtu.be/_b4qKv1Ctv8?t=6044
 

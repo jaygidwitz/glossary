@@ -63,19 +63,12 @@
 > As for the decision trees: if humanity is to have a future greater than 500 years with fusion devices and other horrors, what must happen?
 > 
 > A) A great run of luck must occur.
-> 
 > B) An outbreak of unprecidented wisdom happens.
-> 
 > C) We upload into silicon.
-> 
 > D) We stabilize the environment and grow all markets so no one has reason to want.
-> 
 > E) We move to the moon, mars and a few spacestations to diversity which is sufficient.
-> 
 > F) We escape the solar system with new physics.
-> 
 > G) We establish universal surveilance so no surprises can occur.
-> 
 > H) We terminate shortly.
 > 
 > Note that all of the above....ALL...are crazy. There are no non-crazy possibilities.

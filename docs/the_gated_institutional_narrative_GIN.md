@@ -4,7 +4,7 @@
 > 
 > In order to actually participate in this particular special conversation, you need to have a seat on the exchange that is you need to write for an important paper, like the Wall Street Journal, or you need to be a Senator or a Congressman so that you can gain access to the news media, where you need to be sitting at a news desk in any of these situations, whether you're a professor, or a reporter, or a politician if you can gain a seat inside of the Gated Institutional Narrative, you can attempt to converse with other people within that particular conversation.
 > 
-> The rest of us do not have the same level, or kind of access to this highly rarefied discussion. It's comparable to what we would term a promotion inside of the world of professional wrestling. [https://www.edge.org/response-detail/11783 It's an agreed-upon structure in which people often agree to simulate dispute]. Rather than actually have disputes because somebody could get really seriously injured, but they are in fact, working together to produce, an engaging, and regular product for mass-consumption.
+> The rest of us do not have the same level, or kind of access to this highly rarefied discussion. It's comparable to what we would term a promotion inside of the world of professional wrestling. [It's an agreed-upon structure in which people often agree to simulate dispute](https://www.edge.org/response-detail/11783). Rather than actually have disputes because somebody could get really seriously injured, but they are in fact, working together to produce, an engaging, and regular product for mass-consumption.
 > 
 > The problem with this gated institutional narrative is that in general, it doesn't contain the most important ideas. And that is where the gating function comes in. The most important ideas are likely to be the ideas that are the most disruptive:
 > 
@@ -23,6 +23,7 @@
 > And this is where I want to introduce the most important concept that I think we will be dealing with on a going-forward basis. In 2020 on this program, the disc, what is the [[Distributed Idea Suppression Complex|DISC]]?
 > 
 > (Episode 18 Transcript)[18: Slipping the DISC: State of The Portal & Chapter 2020] |  [YouTube Video](https://www.youtube.com/watch?v=QxnkGymKuuI)
+
 ~ (theportal.wiki)[https://theportal.wiki/wiki/Gated_Institutional_Narrative]
 
 

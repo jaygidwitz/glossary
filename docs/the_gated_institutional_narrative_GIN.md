@@ -51,11 +51,11 @@ Recent examples of modern GINs and relative alternative sense makers include but
 
 ## References
 
-1. The Rubin Report (25 September 2018). ("Eric Weinstein: The Future of The Intellectual Dark Web")[https://www.youtube.com/watch?v=tUl7-SvntQ4] – via YouTube.
-2. Eric Weinstein (7 June 2018). ("Why the "Intellectual Dark Web" has such a crazy name")[https://www.youtube.com/watch?v=cr0OX6ai4Qw] – via YouTube.
-3. Daum, Meghan. ("A new movement to speak truth to identity politics is our best hope against regressive thinking".)[https://www.latimes.com/opinion/op-ed/la-oe-daum-intellectual-dark-web-20180316-story.html] latimes.com.
-4. PowerfulJRE (2 June 2017). "(Joe Rogan Experience #970 - Bret Weinstein)[https://www.youtube.com/watch?v=xq4Y87idawk]" – via YouTube.
-5. Jordan B Peterson (18 May 2017). "(2017/05/17: Senate hearing on Bill C16)[https://www.youtube.com/watch?v=KnIAAkSNtqo]" – via YouTube.
+1. The Rubin Report (25 September 2018). ["Eric Weinstein: The Future of The Intellectual Dark Web"](https://www.youtube.com/watch?v=tUl7-SvntQ4) – via YouTube.
+2. Eric Weinstein (7 June 2018). ["Why the "Intellectual Dark Web" has such a crazy name"](https://www.youtube.com/watch?v=cr0OX6ai4Qw) – via YouTube.
+3. Daum, Meghan. ["A new movement to speak truth to identity politics is our best hope against regressive thinking".](https://www.latimes.com/opinion/op-ed/la-oe-daum-intellectual-dark-web-20180316-story.html) latimes.com.
+4. PowerfulJRE (2 June 2017). "[Joe Rogan Experience #970 - Bret Weinstein](https://www.youtube.com/watch?v=xq4Y87idawk)" – via YouTube.
+5. Jordan B Peterson (18 May 2017). "[2017/05/17: Senate hearing on Bill C16](https://www.youtube.com/watch?v=KnIAAkSNtqo)" – via YouTube.
 6. https://web.archive.org/web/20170809220001if_/https://diversitymemo-static.s3-us-west-2.amazonaws.com/Googles-Ideological-Echo-Chamber.pdf
-7. "(How the Internet got the 'Google memo' wrong - The Boston Globe)[https://www.bostonglobe.com/ideas/2017/08/10/how-internet-got-google-memo-wrong/US4NlaIvQ00UdsyofYbMyM/story.html]". BostonGlobe.com.
-8. PowerfulJRE (18 November 2015). ("Joe Rogan Experience #724 - Christina Sommers")[https://www.youtube.com/watch?v=S_hS-JXoTMk] – via YouTube.
+7. "[How the Internet got the 'Google memo' wrong - The Boston Globe](https://www.bostonglobe.com/ideas/2017/08/10/how-internet-got-google-memo-wrong/US4NlaIvQ00UdsyofYbMyM/story.html)". BostonGlobe.com.
+8. PowerfulJRE (18 November 2015). ["Joe Rogan Experience #724 - Christina Sommers"](https://www.youtube.com/watch?v=S_hS-JXoTMk) – via YouTube.

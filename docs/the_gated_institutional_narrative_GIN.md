@@ -33,7 +33,7 @@ The manner in which different gated institutional narratives emerge can be attri
 
 Arguably, it is the sociological equivalence of academic malpractice.<sup>[1][1]</sup>
 
-Any GIN can be identified as an institutional narrative that, for whatever reason, creates for itself an exclusive arbiter of ideas and chooses to condemn alternative sense-making apparatuses.[2]
+Any GIN can be identified as an institutional narrative that, for whatever reason, creates for itself an exclusive arbiter of ideas and chooses to condemn alternative sense-making apparatuses.<sup>[2]</sup>
 
 In essence, an institutional condemnation of any alternative analysis to its own is what forms the figurative 'gating'..
 

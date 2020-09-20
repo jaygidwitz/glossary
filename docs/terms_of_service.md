@@ -45,3 +45,5 @@ https://twitter.com/EricRWeinstein/status/1222205461790744576?s=20
 https://twitter.com/EricRWeinstein/status/1222205463330050049?s=20
 
 https://twitter.com/EricRWeinstein/status/1092543310307024897?s=20
+
+https://theportal.tv/tag/terms-of-service/

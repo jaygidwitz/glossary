@@ -24,7 +24,7 @@
 > 
 > [Episode 18: Slipping the DISC](https://theportal.wiki/wiki/18:_Slipping_the_DISC:_State_of_The_Portal/Chapter_2020) |  [YouTube Video](https://www.youtube.com/watch?v=QxnkGymKuuI)
 
-~ (theportal.wiki)[https://theportal.wiki/wiki/Gated_Institutional_Narrative]
+~ [theportal.wiki](https://theportal.wiki/wiki/Gated_Institutional_Narrative)
 
 
 The **Gated Institutional Narrative (GIN)** is a sociological phenomenon describing the often heavily generalised nature in which information is presented by the media, politicians and other sectors of the commentariat. It is a neologism commonly attributed to mathematician, economist and author, Eric Weinstein.

@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](https://theportal.tv/wp-content/uploads/2020/08/the-portal-logo.png)
+![logo](img/the-portal-logo.png)
 
 # The Portal Glossary <small>Alpha</small>
 

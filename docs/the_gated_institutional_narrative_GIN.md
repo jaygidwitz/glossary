@@ -43,6 +43,7 @@ The IDW is humorously named 'dark' to recognize those who involuntarily become r
 
 Recent examples of modern GINs and relative alternative sense makers include but are not limited to:
 
+- **The Twitter Banning of The Articles of Unity**
 - **Evergreen State College**: Bret Weinstein<sup>[4]</sup>
 - **Parliament of Canada**: Jordan Peterson<sup>[5]</sup>
 - **Google**: James Damore<sup>[6][7]</sup>

@@ -24,4 +24,6 @@
 > Trump is like the guy who added the last line on the sign when Clinton & Bush would not.
 >
 >Trump’s style of metahonesty is however very dangerous. I wrote about this in a 2011 essay I frequently reference on the theory of Kayfabe which I anticipated would take over as boomers were forced to deal w/ the cognitive aftermath of the Great Recession: [Kayfabe](https://www.edge.org/response-detail/11783)
+
+
 ~ [Eric Weinstein Oct 31, 2018](https://twitter.com/ericrweinstein/status/1057712702607388672?lang=en)

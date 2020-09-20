@@ -9,3 +9,21 @@
 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My work here is done: the Kayfabrication of everything nears completion. <a href="https://twitter.com/hashtag/Kayfabe?src=hash&amp;ref_src=twsrc%5Etfw">#Kayfabe</a> <a href="https://t.co/v54FQqeyoU">https://t.co/v54FQqeyoU</a></p>&mdash; Eric Weinstein (@EricRWeinstein) <a href="https://twitter.com/EricRWeinstein/status/1250464255071023105?ref_src=twsrc%5Etfw">April 15, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+> “All lies are told with a straight face. It is truth that's said with a dismissive giggle.”
+>
+> P.J. O'Rourke
+>
+> I struggle to explain to people the difference between honesty & metahonesty. Metahonesty only becomes possible when you accept the role deception plays in your own life.
+> ![metahonesty](img/freebeer.jpg)
+>
+>
+>When I saw this sign in SF’s Castro district, I thought of my friend @SamHarrisOrg and my struggle to explain to him in early 2017 why people trust  @realDonaldTrump when he is not truthful.
+>
+> Trump is like the guy who added the last line on the sign when Clinton & Bush would not.
+>
+>Trump’s style of metahonesty is however very dangerous. I wrote about this in a 2011 essay I frequently reference on the theory of Kayfabe which I anticipated would take over as boomers were forced to deal w/ the cognitive aftermath of the Great Recession: [Kayfabe](https://www.edge.org/response-detail/11783)
+
+
+~ [Eric Weinstein Oct 31, 2018](https://twitter.com/ericrweinstein/status/1057712702607388672?lang=en)

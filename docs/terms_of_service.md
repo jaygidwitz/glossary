@@ -13,3 +13,35 @@
 > The problem isn't Shakespeare.
 
 - https://twitter.com/ericrweinstein/status/1071216823742291968
+
+https://twitter.com/EricRWeinstein/status/1243971823995244555
+
+https://twitter.com/EricRWeinstein/status/1204816501598932992
+
+https://twitter.com/EricRWeinstein/status/1243976958158880768
+
+https://twitter.com/EricRWeinstein/status/1094620432517365761
+
+https://twitter.com/EricRWeinstein/status/892473555530600448?s=20
+
+https://twitter.com/EricRWeinstein/status/1077270385916182528?s=20
+
+https://twitter.com/EricRWeinstein/status/1077271393970970624?s=20
+
+https://twitter.com/EricRWeinstein/status/1225575383983984641?s=20
+
+https://twitter.com/EricRWeinstein/status/1070947623102701568?s=20
+
+https://twitter.com/EricRWeinstein/status/990336011761664000?s=20
+
+https://twitter.com/EricRWeinstein/status/990338429127872512?s=20
+
+https://twitter.com/EricRWeinstein/status/1169627126099632128?s=20
+
+https://twitter.com/EricRWeinstein/status/1169627129270554625?s=20
+
+https://twitter.com/EricRWeinstein/status/1222205461790744576?s=20
+
+https://twitter.com/EricRWeinstein/status/1222205463330050049?s=20
+
+https://twitter.com/EricRWeinstein/status/1092543310307024897?s=20

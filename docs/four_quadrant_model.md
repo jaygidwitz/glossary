@@ -1,6 +1,6 @@
 # Four Quadrant Model
 
-> **The Four Quadrant Model** introduced on my [@SamHarrisOrg](https://samharris.org/podcasts/faith-in-reason/) episode &amp; then developed on [@RubinReport](https://www.youtube.com/watch?v=ofDXJsKsA30)&#39;s was created to explain incidents like the recent [@jordanbpeterson](https://twitter.com/jordanbpeterson) interview by (@cathynewman)[https://twitter.com/cathynewman] of (@Channel4News)[https://twitter.com/Channel4News] which all-fit-this-pattern.
+> **The Four Quadrant Model** introduced on my [@SamHarrisOrg](https://samharris.org/podcasts/faith-in-reason/) episode &amp; then developed on [@RubinReport](https://www.youtube.com/watch?v=ofDXJsKsA30)&#39;s was created to explain incidents like the recent [@jordanbpeterson](https://twitter.com/jordanbpeterson) interview by [@cathynewman](https://twitter.com/cathynewman) of [@Channel4News](https://twitter.com/Channel4News) which all-fit-this-pattern.
 >
 > It&#39;s pretty clean.
 >

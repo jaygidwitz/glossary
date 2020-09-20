@@ -1,6 +1,6 @@
 # Four Quadrant Model
 
-> **The Four Quadrant Model** introduced on my <a href="https://twitter.com/SamHarrisOrg">@SamHarrisOrg</a> episode &amp; then developed on <a href="https://twitter.com/RubinReport?ref_src=twsrc%5Etfw">@RubinReport</a>&#39;s was created to explain incidents like the recent <a href="https://twitter.com/jordanbpeterson?ref_src=twsrc%5Etfw">@jordanbpeterson</a> interview by <a href="https://twitter.com/cathynewman?ref_src=twsrc%5Etfw">@cathynewman</a> of <a href="https://twitter.com/Channel4News?ref_src=twsrc%5Etfw">@Channel4News</a> which all-fit-this-pattern.
+> **The Four Quadrant Model** introduced on my [@SamHarrisOrg](https://samharris.org/podcasts/faith-in-reason/) episode &amp; then developed on [@RubinReport](https://www.youtube.com/watch?v=ofDXJsKsA30)&#39;s was created to explain incidents like the recent [@jordanbpeterson](https://twitter.com/jordanbpeterson) interview by (@cathynewman)[https://twitter.com/cathynewman] of (@Channel4News)[https://twitter.com/Channel4News] which all-fit-this-pattern.
 >
 > It&#39;s pretty clean.
 >

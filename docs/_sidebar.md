@@ -34,6 +34,7 @@
   - [Escher's Hands Drawing Hands](eschers_hands_drawing_hands.md)
   - [Evergreening](evergreening.md)
   - [Fear, Uncertainty, and Doubt (FUD)](fear_uncertainty_and_doubt_fud.md)
+  - [Four Quadrant Model](four_quadrant_model.md)
   - [Forced Citation](forced_citation.md)
   - [Fragility of Masculinity](fragility_of_masculinity.md)
   - [Game B](game_b.md)

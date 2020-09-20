@@ -36,14 +36,16 @@ https://twitter.com/EricRWeinstein/status/990336011761664000?s=20
 
 https://twitter.com/EricRWeinstein/status/990338429127872512?s=20
 
-https://twitter.com/EricRWeinstein/status/1169627126099632128?s=20
+https://theportal.tv/reality-violates-the-terms-of-service/
 
-https://twitter.com/EricRWeinstein/status/1169627129270554625?s=20
+https://theportal.tv/bury-the-lede/
 
-https://twitter.com/EricRWeinstein/status/1222205461790744576?s=20
+https://theportal.tv/open-and-decentralized/
 
-https://twitter.com/EricRWeinstein/status/1222205463330050049?s=20
+https://theportal.tv/consciously-contradicting-twitters-terms-of-service/
 
-https://twitter.com/EricRWeinstein/status/1092543310307024897?s=20
+https://theportal.tv/time-to-break-the-terms-of-service/
+
+https://theportal.tv/the-algorithms-that-direct-our-attention/
 
 https://theportal.tv/tag/terms-of-service/

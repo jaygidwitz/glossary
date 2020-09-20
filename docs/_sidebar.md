@@ -22,7 +22,7 @@
   - [The Cosmic Spelling Bee](the_cosmic_spelling_bee.md)
   - [Critical Feeling](critical_feeling.md)
   - [Deaths of Accountability](deaths_of_accountability.md)
-  - [De-Potemkin](de-potemkin.md)
+  - [Depotemkin](depotemkin.md)
   - [Dining à la Carte](dining_a_la_carte.md)
   - [Don't screw yourself out of magic](dont_screw_yourself_out_of_magic.md)
   - [Don't wait for the bread to rise](dont_wait_for_the_bread_to_rise.md)

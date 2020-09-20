@@ -2,7 +2,7 @@
 > **Anti-interesting, adj.**: 1) A subject is said to be anti-interesting if it is absolutely fascinating to the point where there is a strong market for it’s investigation but it threatens an institution capable of stifling discussion inside the [Gated Institutional Narrative (GIN)](the_gated_institutional_narrative_GIN.md).
 &mdash; Eric Weinstein (@EricRWeinstein) <a href="https://twitter.com/EricRWeinstein/status/1220179687340572672?ref_src=twsrc%5Etfw">January 23, 2020</a></blockquote>
 
-### References:
+### Related:
 
 <!-- tabs:start -->
 

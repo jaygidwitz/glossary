@@ -91,6 +91,7 @@
   - [There is no secret ingredient](there_is_no_secret_ingredient.md)
   - [Thinkquisition](thinkquisition.md)
   - [TIM - Technology Intelligence Media](tim_technology_intelligence_media.md)
+  - [Thug Review](thug_review.md)
   - [Umwelt](umwelt.md)
   - [Vampire syndrome/Vampire effect](vampire_syndrome_vampire_effect.md)
   - [Wu-Yang Dictionary](wu-yang_dictionary.md)

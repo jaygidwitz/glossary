@@ -59,10 +59,15 @@
       name: 'The Portal Glossary',
       basePath: '/',
       repo: 'https://github.com/jaygidwitz/glossary/',
-    
+      disqus: 'theportaltv',
       loadSidebar: true,
       coverpage: true,
-
+      pagination: {
+        previousText: '< Previous',
+        nextText: '> Next',
+        crossChapter: true,
+        crossChapterText: true
+      },
       loadSidebar: '_sidebar.md',
       search: {
             noData: {
@@ -91,7 +96,7 @@
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-nginx.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-php.min.js"></script>
-  
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
   <!-- docsify-tabs (latest v1.x.x) -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   

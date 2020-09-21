@@ -56,6 +56,7 @@
   - [The Looting Party](the_looting_party.md)
   - [Long Term vs Short Term Optimization](long_term_vs_short_term_optimization.md)
   - [Long/short positions (nuanced positions)](long_short_positions_nuanced_positions.md)
+  - [Madness](madness.md)
   - [Maladaptive strategies](maladaptive_strategies.md)
   - [Meaning](meaning.md)
   - [Message Violence](message_violence.md)

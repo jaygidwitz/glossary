@@ -4,7 +4,7 @@
 >
 > It&#39;s pretty clean.
 >
-> ![](4-Quadrant-Model.jpg)
+> ![](img/4-Quadrant-Model.jpg)
 
 &mdash; Eric Weinstein (@EricRWeinstein) [January 20, 2018](https://twitter.com/EricRWeinstein/status/954860660436824064)
 

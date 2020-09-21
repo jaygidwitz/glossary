@@ -1,4 +1,5 @@
-# References:
+# Terms of Service:
+
 > Your ‘Terms of Service’ mean nothing to me if you reserve the right to apply them asymmetrically for nakedly political ends.
 >
 > I’d prefer you just wrote: “We reserve the right to silence, harass & gaslight users on our platform at our sole discretion over political disagreements.”
@@ -15,6 +16,8 @@
 - https://twitter.com/ericrweinstein/status/1071216823742291968
 
 [more](https://twitter.com/search?q=from%3AEricRWeinstein%20terms%20of%20service)
+
+# More
 
 https://theportal.tv/reality-violates-the-terms-of-service/
 

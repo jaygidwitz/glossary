@@ -10,4 +10,4 @@ Similar to critical thinking, but with emotional content. "Most of our emotions 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Considering a riff on artificial emotional intelligence, machine feeling, R Conjugation, empathy superhighway, critical feeling &amp; groupfeel.</p>&mdash; Eric Weinstein (@EricRWeinstein) <a href="https://twitter.com/EricRWeinstein/status/844208712763887616?ref_src=twsrc%5Etfw">March 21, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Lmv_5I4WcNk?start=1493" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Lmv_5I4WcNk?start=1493" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

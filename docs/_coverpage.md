@@ -2,7 +2,7 @@
 
 ![logo](img/the-portal-logo.png)
 
-# The Portal Glossary <small>Alpha</small>
+# The Portal Glossary
 
 [Eric](https://twitter.com/EricRWeinstein) often uses terms or turns-of-phrase that some people may not immediately understand. 
 

@@ -1,6 +1,7 @@
 - Getting started
 
   - [ ThePortal.wiki ](https://theportal.wiki)
+  - [Suggest New Term](new_term_suggestion.md)
   
 - Contents
   - [A/B Testing](ab_testing.md)

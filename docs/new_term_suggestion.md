@@ -1,5 +1,9 @@
 # New Term Suggestion
 
-## Please in your suggestion the new term, as well as a link to the primary source.
+### Please include in your suggestion:
+
+1. The new term
+1. The Definition
+1. A link to Eric's content as a source.
 
 Thank you!! =)

@@ -33,6 +33,12 @@
 
 
   </style>
+<script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+</script>
+  
 </head>
 <body>
   <div id="app"></div>

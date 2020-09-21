@@ -33,6 +33,7 @@
   - [Environmental Insult](environmental_insult.md)
   - [Escher's Hands Drawing Hands](eschers_hands_drawing_hands.md)
   - [Evergreening](evergreening.md)
+  - [Fact Burning](fact_burning.md)
   - [Fear, Uncertainty, and Doubt (FUD)](fear_uncertainty_and_doubt_fud.md)
   - [Four Kinds of Fake News](four_kinds_of_fake_news.md)
   - [Four Quadrant Model](four_quadrant_model.md)

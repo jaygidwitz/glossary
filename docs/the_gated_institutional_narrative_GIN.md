@@ -1,4 +1,14 @@
 # The Gated Institutional Narrative (GIN)
+> Our Gated Institutional Narrative (The G.I.N.) has now broken for only the 4th time I can remember in my adult life:
+>
+> 2001: With 9/11
+> 2008: With Lehmann Brothers
+> 2016: With Trump over Hillary
+> 2019: With Jeffrey Epstein and the Simple Suicide Story
+>
+> No one smart truly believes it.
+
+~ [[source](https://twitter.com/EricRWeinstein/status/1160580368015118337?s=20)]
 
 > The '''Gated Institutional Narrative''' is like an exchange, a financial exchange, except it's an exchange of information and ideas.
 > 
